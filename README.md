@@ -10,4 +10,4 @@ Incoming eng intern @ [Shopify](http://shopify.com), Previous product engineer @
 - 🚵‍♂️ Biked 3k+ km across the US in 1 month, camping every night <br/>
 - 🤖 Led AI-centered discussions at Tik Tok's office  <br/>
 
-
+[LinkedIn](https://www.linkedin.com/in/jeffreyllin/) | [Email](j475lin@uwaterloo.ca)
