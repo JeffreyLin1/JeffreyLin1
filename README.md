@@ -11,4 +11,4 @@ Incoming eng intern @ [Shopify](http://shopify.com), Previous product engineer @
 - 🤖 Led AI-centered discussions at Tik Tok's office  <br/>
 
 HMU if you wanna chat! <br/>
-[LinkedIn](https://www.linkedin.com/in/jeffreyllin/) | [Email](j475lin@uwaterloo.ca)
+[LinkedIn](https://www.linkedin.com/in/jeffreyllin/) | [Email](j475lin@uwaterloo.ca) | [website](jeffreylin.vercel.app)
