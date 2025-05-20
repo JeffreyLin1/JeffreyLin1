@@ -4,7 +4,7 @@ Interested in building products that people actually want to use 😼 <br/>
 
 Incoming eng intern @ [Shopify](http://shopify.com), Previous product engineer @ [Agentnoon (YC W22)](http://agentnoon.com) <br/>
 
-- 🚀 Created, scaled, and exited a [viral platform](https://www.uwsummit.ca) (100k + visits in a few days, 1k+ users)  <br/>
+- 🚀 Created, scaled, and exited a [viral platform](https://www.uwsummit.ca) (100k + visits, 1k+ users)  <br/>
 - 🛠️ Built B2B tools for companies like Nestle, Autodesk and more <br/>
 - ⛰️ Managed a welding shop in the Yukon Territory <br/>
 - 🚵‍♂️ Biked 3k+ km across the US in 1 month, camping every night <br/>
