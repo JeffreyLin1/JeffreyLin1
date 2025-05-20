@@ -1,5 +1,6 @@
 ### Hi! I'm Jeffrey 👋
-I'm Systems design engineering @ UWaterloo. I'm interested in building/managing products that people actually want to use. Applied ML is cool too :^)
+Studying Systems design engineering @ UWaterloo. 
+Interested in building/managing products that people actually want to use. Applied ML is cool too :^)
 
 Incoming eng intern @ Shopify, Previous product engineer @ Agentnoon (YC W22)
 
