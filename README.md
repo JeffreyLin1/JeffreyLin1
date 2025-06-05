@@ -11,4 +11,4 @@ Incoming eng @ [Shopify](http://shopify.com), Prev product eng @ [Agentnoon (YC 
 - 🤖 Led AI-centered discussions at Tik Tok's office  <br/>
 
 HMU if you wanna chat! <br/>
-[LinkedIn](https://www.linkedin.com/in/jeffreyllin/) | [Email](j475lin@uwaterloo.ca) | [Website](http://jeffreylin.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/jeffreyllin/) | [Email](j475lin@uwaterloo.ca) | [Website](http://jeffreylin.vercel.app) | [X]([http://jeffreylin.vercel.app](https://x.com/jeeffreyLin))
