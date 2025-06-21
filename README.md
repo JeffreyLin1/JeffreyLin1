@@ -1,6 +1,6 @@
 ### Hi! I'm Jeffrey 👋
 Systems design engineering @ UWaterloo <br/>
-Interested in PM and applied ML. I want to build products that people actually use :D
+Interested in PM and applied ML. Currently building [AI-powered short form content creation](http://brainrot.mov) 
 
 Incoming eng @ [Shopify](http://shopify.com), Prev product eng @ [Agentnoon (YC W22)](http://agentnoon.com) <br/>
 
