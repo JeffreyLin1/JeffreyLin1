@@ -1,6 +1,6 @@
 ### Hi! I'm Jeffrey 👋
 Systems design engineering @ UWaterloo <br/>
-Interested in PM and applied ML
+
 
 SWE @ [Shopify](http://shopify.com), Prev product eng @ [Agentnoon (YC W22)](http://agentnoon.com) <br/>
 
@@ -10,4 +10,4 @@ SWE @ [Shopify](http://shopify.com), Prev product eng @ [Agentnoon (YC W22)](htt
 - ⛰️ Managed a welding shop in the Yukon Territory <br/>
 
 HMU if you wanna chat! <br/>
-[LinkedIn](https://www.linkedin.com/in/jeffreyllin/) | [Email](j475lin@uwaterloo.ca) | [Website](http://jeffreylin.vercel.app) | [X](https://x.com/jeeffreyLin)
+[LinkedIn](https://www.linkedin.com/in/jeffreyllin/) | [Email](j475lin@uwaterloo.ca) | [Website](http://jeffreylin.dev) | [X](https://x.com/jeeffreyLin)
