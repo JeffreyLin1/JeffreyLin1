@@ -2,7 +2,7 @@
 Systems design engineering @ UWaterloo <br/>
 
 
-SWE @ [Shopify](http://shopify.com), Prev product eng @ [Agentnoon (YC W22)](http://agentnoon.com) <br/>
+SWE @ [Shopify](http://shopify.com), Prev SWE @ [Agentnoon (YC W22)](http://agentnoon.com) <br/>
 
 - 🤖 Created a [content creation tool](http://brainrot.mov) and hit $1k+ MRR 
 - 🚀 Created and sold a [viral platform](https://www.uwsummit.ca) (100k + visits, 1k+ users)  <br/>
