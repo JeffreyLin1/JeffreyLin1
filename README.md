@@ -6,7 +6,7 @@ SWE @ [Shopify](http://shopify.com), Prev SWE @ [Agentnoon (YC W22)](http://agen
 
 - 🤖 Created a [content creation tool](http://brainrot.mov) and hit $1k+ MRR 
 - 🚀 Created and sold a [viral platform](https://www.uwsummit.ca) (100k + visits, 1k+ users)  <br/>
-- 🛠️ Built org chart visualization tools for companies like Nestle and Autodesk<br/>
+- 🛠️ Built workforce management tools for companies like Nestle and Autodesk<br/>
 - ⛰️ Managed a welding shop in the Yukon Territory <br/>
 
 HMU if you wanna chat! <br/>
