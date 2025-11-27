@@ -4,7 +4,7 @@ Systems design engineering @ UWaterloo
 
 SWE & MLE @ [Shopify](http://shopify.com)
 
-Me summary:
+Profile summary:
 - Prev SWE @ [Agentnoon (YC W22)](http://agentnoon.com) - acq by Dayforce
 - Scaled a [content creation tool](http://brainrot.mov) to $1k MRR
 - Sold a [side project](https://www.uwsummit.ca) (100k + visits, 1k+ users)  <br/>
