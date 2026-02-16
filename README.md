@@ -1,5 +1,6 @@
 ### Hi! I'm Jeffrey 👋
 Systems design engineering @ UWaterloo
+Currently working for a startup in NYC
 
 Read more about me at my [website](http://jeffreylin.dev)
 
